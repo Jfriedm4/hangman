@@ -1,0 +1,28 @@
+body{
+  background-image: url("../images/brick.jpg");
+}
+
+.container {
+  border-color: white;
+}
+
+.rockwelcome {
+  margin-left: 20%;
+  margin-top: 10%;
+  position: relative;
+  opacity: .8;
+}
+
+.btn-secondary{
+  top: 65px;
+  left: 100px;
+  width: 450px;
+  height: 100px;
+  position: absolute;
+  background-color: transparent;
+  border-color: #9e9e9e;
+  border-width: thick;
+  font-size: 35px;
+  font-family: 'Oswald', sans-serif;
+  opacity: .65;
+}

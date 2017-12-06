@@ -1,0 +1,50 @@
+body{
+  background-image: url("../images/brick.jpg");
+}
+
+.card{
+  background-color: #e9e9e9;
+  opacity: .5;
+}
+
+
+.card-body {
+  text-align: center;
+  font-weight: bolder;
+  height: 150px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 35px;
+}
+
+.container {
+  color: white;
+  max-width: 250px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+.rockbelt {
+  position:relative;
+  opacity: .8;
+  margin-top: 90px;
+}
+
+.row {
+  position: absolute;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  background-color: transparent;
+  height: 70px;
+  width: 100%;
+}
+
+.copyright {
+  color: #ccc;
+  font-size: 14px;
+  opacity: .7;
+  text-align: center;
+}
